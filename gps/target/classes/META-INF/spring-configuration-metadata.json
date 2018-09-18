@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.real.gps.config.ApplicationConfig",
+      "name": "applicationprop",
+      "type": "com.real.gps.config.ApplicationConfig"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.real.gps.config.ApplicationConfig",
+      "name": "applicationprop.coordinate-file",
+      "type": "java.lang.String"
+    }
+  ]
+}

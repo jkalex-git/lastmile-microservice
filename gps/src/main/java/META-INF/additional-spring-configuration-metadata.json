@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "applicationprop.coordinate-file",
+    "type": "java.lang.String",
+    "description": "A description for 'applicationprop.coordinate-file'"
+  },
+  {
+    "name": "applicationprop1.coordinate-file",
+    "type": "java.lang.String",
+    "description": "A description for 'applicationprop1.coordinate-file'"
+  }
+]}

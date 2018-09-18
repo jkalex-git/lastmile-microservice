@@ -1,0 +1,24 @@
+server:
+  port: 8085
+
+logging:
+  level:
+    org.springframework.web: ERROR
+    com.real: DEBUG
+  pattern:
+    console: "%d{yyyy-MM-dd HH:mm:ss} - %msg%n"
+    file: "%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n"
+  file: /AppLogs/last-mile_app.log
+
+
+scheduler:
+  fixedDelay: 3600000
+  intialDelay: 1000
+  
+api:
+  gpsUrl: http://localhost:8080/distance
+  
+applicationprop:
+  velocity: 60.0   
+  depotFile: Depots.txt
+  storeFile: Stores.txt  
