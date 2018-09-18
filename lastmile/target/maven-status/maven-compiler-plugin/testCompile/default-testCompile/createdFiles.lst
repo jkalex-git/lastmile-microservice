@@ -1,7 +1,0 @@
-com\real\lastmile\configs\ControllerServiceConfig.class
-com\real\lastmile\helper\TestHelper.class
-com\real\lastmile\configs\ServiceHelperConfig.class
-com\real\lastmile\tests\ControllerServiceTest.class
-com\real\lastmile\tests\EhCacheServiceTest.class
-com\real\lastmile\configs\EhCacheServiceConfig.class
-com\real\lastmile\tests\ServiceHelperTest.class
